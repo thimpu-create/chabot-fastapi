@@ -73,15 +73,6 @@ This bot behaves like your **Assamese bestie**:
 
 ---
 
-## 💬 Example Chat
-
-```text
-You: ki koriso bey?
-Bot: ki korim bey... toh logot moja paisilu ajikali!
-```
-
----
-
 ## 📸 Preview
 
 _✨ Coming soon... screenshot or GIF preview here!_
